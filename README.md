@@ -1,2 +1,2 @@
 # smart-alarms
-A method to to eliminate the typical flood of unnecessarily repetitive alarms
+A method to eliminate the typical flood of unnecessarily repetitive alarms
